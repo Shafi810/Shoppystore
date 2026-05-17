@@ -26,7 +26,7 @@ This project demonstrates my skills in **React, Vite, Tailwind CSS**, and buildi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/shoppystore.git
+git clone [https://github.com/Shafi810/shoppystore.git]
 cd shoppystore
 
 2. Install dependencies
@@ -39,7 +39,7 @@ npm run build
 
 
 📬 Contact
-Created by Shafe  
+Created by Shafi Usmani  
 📧 Email: shafek790@gmail.com
 
 
